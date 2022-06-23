@@ -31,6 +31,9 @@
     <middleware-manifest>
       <uri>https://github.com/cypresssemiconductorco/mtb-mw-manifest/raw/v2.X/mtb-mw-manifest.xml</uri>
     </middleware-manifest>
+    <middleware-manifest>
+      <uri>https://raw.githubusercontent.com/memfault/mtb-memfault-mw-manifest/main/mtb-memfault-mw-manifest-fv2.xml</uri>
+    </middleware-manifest>
     <middleware-manifest dependency-url="https://github.com/cypresssemiconductorco/mtb-mw-manifest/raw/v2.X/mtb-mw-dependencies-manifest.xml">
       <uri>https://github.com/cypresssemiconductorco/mtb-mw-manifest/raw/v2.X/mtb-mw-manifest-fv2.xml</uri>
     </middleware-manifest>
